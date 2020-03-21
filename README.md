@@ -1,5 +1,5 @@
 # kindle2fa
-convert epub for kindle custom font
+convert epub for kindle custom farsi font
 
 
 **Usage**:
