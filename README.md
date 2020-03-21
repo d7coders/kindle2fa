@@ -1,5 +1,5 @@
 # kindle2fa
-fix seperated characters in kindle paperwhite when using custom farsi font
+fix separated characters in kindle paperwhite when using custom farsi font
 
 
 **Usage**:
