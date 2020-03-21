@@ -1,5 +1,5 @@
 # kindle2fa
-convert epub for kindle custom farsi font
+fix seperated characters in kindle paperwhite when using custom farsi font
 
 
 **Usage**:
